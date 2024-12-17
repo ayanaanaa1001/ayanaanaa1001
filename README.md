@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌍 Based in Constantine, Algeria.<br>📚 I have a bachelor's degree in Software Engineering (2023) from the University of Constantine 2<br>📝 I am currently studying to obtain a master's degree in Smart Systems and Software Engineering<br>💻 I am mainly a Frontend Developer</p>
+<p align="left">🌍 Based in Constantine, Algeria.<br>📚 I have a bachelor's degree in Software Engineering (2023) from the University of Constantine 2<br>📝 I am currently studying to obtain a master's degree in Smart Systems and Software Engineering<br>💻 I am mainly a Python Developer</p>
 
 ###
 
